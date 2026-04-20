@@ -33,10 +33,10 @@ The project includes:
 
 ## Key Findings
 
-- Life expectancy has increased steadily over time across all regions.
-- There are clear differences in trends between continents.
-- Including interaction terms improves model performance.
-- Random Forest slightly outperforms Decision Tree in classification tasks.
+**- Life expectancy has increased steadily over time across all regions.**
+**- There are clear differences in trends between continents.**
+**- Including interaction terms improves model performance.**
+**- Random Forest slightly outperforms Decision Tree in classification tasks.**
 
 ---
 
@@ -64,9 +64,9 @@ The project includes:
 
 ## Results
 
-- Linear model shows a strong positive relationship between year and life expectancy.
-- Interaction model improves fit (higher explanatory power).
-- Random Forest achieves higher accuracy (~0.97) than Decision Tree (~0.95).
+**- Linear model shows a strong positive relationship between year and life expectancy.**
+**- Interaction model improves fit (higher explanatory power).**
+**- Random Forest achieves higher accuracy (~0.97) than Decision Tree (~0.95).**
 
 ---
 
@@ -86,6 +86,6 @@ The project includes:
 
 ---
 
-## 📎 Author
+## Author
 
 Kailee Segarra  
